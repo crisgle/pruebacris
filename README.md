@@ -1,0 +1,1 @@
+El objetivo de este proyecto es llegar al github y poder copiar los repositorios de mis compañeros.
